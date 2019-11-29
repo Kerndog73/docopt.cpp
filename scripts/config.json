@@ -5,6 +5,6 @@
 		"docopt.h"
 	],
 	"include_paths": [
-	  "."
+		"."
 	]
 }
