@@ -1,0 +1,1 @@
+#define DOCOPT_HEADER_ONLY

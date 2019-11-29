@@ -1,0 +1,10 @@
+{
+	"project": "docopt",
+	"target": "single_include/docopt/docopt.hpp",
+	"sources": [
+		"docopt.h"
+	],
+	"include_paths": [
+	  "."
+	]
+}
